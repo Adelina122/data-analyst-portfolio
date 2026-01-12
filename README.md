@@ -10,7 +10,7 @@ My background is in computer science and project assistance, so I’m especially
 
 ## Project Activity & Impact Analysis (Excel)
 
-###Tools & Skills:
+### Tools & Skills:
 - Excel (data cleaning, pivot tables, KPIs, charts)
 - SQL
 - Power BI (dashboards, reporting) (coming soon)
