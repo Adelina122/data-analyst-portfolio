@@ -1,7 +1,7 @@
 # E-Commerce Sales & Customer Analysis (Power BI)
 
-## 📌 Project Overview
-This project presents an end-to-end **Power BI analytics dashboard** built on an e-commerce dataset.  
+## Project Overview
+This project presents an end-to-end **Power BI analytics dashboard** built on an [e-commerce dataset](https://www.kaggle.com/datasets/joycemara/european-fashion-store-multitable-dataset/data).  
 The goal was to transform raw transactional and customer data into **business-ready insights** focusing on:
 
 - Sales performance (Q2)
@@ -12,7 +12,7 @@ The report is designed for **business stakeholders** and follows best practices 
 
 ---
 
-## 🧱 Data Model
+## Data Model
 The dataset follows a **star schema** structure:
 
 - **Fact Table**
@@ -27,9 +27,9 @@ A dedicated **Calendar table** was created to support time intelligence and cons
 
 ---
 
-## 📊 Report Pages
+## Report Pages
 
-### 1️⃣ Sales Overview (Q2)
+### Sales Overview (Q2)
 Key focus:
 - Revenue, Profit, Margin, Orders
 - Monthly revenue & profit trend
@@ -40,7 +40,7 @@ Purpose:
 
 ---
 
-### 2️⃣ Profitability Analysis
+### Profitability Analysis
 Key focus:
 - Discounted vs non-discounted revenue
 - Profit by marketing campaign
@@ -52,7 +52,7 @@ Purpose:
 
 ---
 
-### 3️⃣ Customer Analysis
+### Customer Analysis
 Key focus:
 - Total customers and purchasing behavior
 - Customer value segmentation
@@ -64,7 +64,7 @@ Purpose:
 
 ---
 
-## 🧮 Key Measures (DAX)
+## Key Measures (DAX)
 - Total Revenue
 - Total Profit
 - Profit Margin %
@@ -78,7 +78,7 @@ Purpose:
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - Power BI
 - DAX
 - Power Query
@@ -87,8 +87,8 @@ Purpose:
 ---
 
 
-## 📂 Repository Contents
+## Repository Contents
 - Power BI report file (`.pbix`)
-- Screenshots of report pages
+- Screenshots of report pages and data model
 - `README.md`
 - `insights.md`
